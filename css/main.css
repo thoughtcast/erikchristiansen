@@ -174,7 +174,7 @@ header {
 }
 
 nav {
-  background: #a0e8dc;
+  background: #fcfcfc;
 }
 
 h1, h2 {
@@ -190,11 +190,11 @@ nav a, nav a:visited {
 }
 
 nav a:hover {
-  color: #F4F4F4;
+  text-decoration: underline;
 }
 
 nav a.selected {
-  color: #F4F4F4;
+  text-decoration: underline;
 }
 
 
