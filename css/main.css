@@ -169,12 +169,12 @@ body {
 }
 
 header {
-  background: #c20017;
-  border-color: #99FFCC;
+  background: #e3e3e3;
+  border-color: #9c9c9c;
 }
 
 nav {
-  background: #fcfcfc;
+  background: #c20017;
 }
 
 h1, h2 {
@@ -186,7 +186,7 @@ a {
 }
 
 nav a, nav a:visited {
-  color: #3b3b3b;
+  text-decoration: underline;
 }
 
 nav a:hover {
