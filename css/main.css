@@ -191,10 +191,12 @@ a {
 */
 nav a:hover {
   text-decoration: underline;
+  color: #c20017;
 }
 
 nav a.selected {
   text-decoration: underline;
+   color: #c20017;
 }
 
 
