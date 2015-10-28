@@ -97,7 +97,7 @@ footer {
   text-align: center;
   clear: both;
   padding-top: 50px;
-  color: #ccc;
+  color: #333333;
 }
 
 .social-icon {
@@ -182,7 +182,7 @@ h1, h2 {
 }
 
 a {
-  color: #474747;
+  color: #c20017;
 }
 
 /*nav a, nav a:visited {
