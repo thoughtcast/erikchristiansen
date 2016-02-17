@@ -169,34 +169,34 @@ body {
 }
 
 header {
-  background: #e3e3e3;
-  border-color: #e3e3e3;
+  background: #292929;
+  border-color: #292929;
 }
 
 nav {
-  background: #e3e3e3;
+  background: #292929;
 }
 
 h1, h2 {
-  color: #333333;
+  color: #d60019;
 }
 
 a {
-  color: #c20017;
+  color: #d60019;
 }
 
 nav a {
-  color: #333333;
+  color: #d60019;
 }
 
 nav a:hover {
   text-decoration: underline;
-  color: #c20017;
+  color: #d60019;
 }
 
 nav a.selected {
   text-decoration: underline;
-   color: #c20017;
+   color: #d60019;
 }
 
 
