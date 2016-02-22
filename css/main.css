@@ -186,7 +186,7 @@ a {
 }
 
 nav a {
-  color: #d60019;
+  color: #fcfcfc;
 }
 
 nav a:hover {
@@ -195,10 +195,16 @@ nav a:hover {
 }
 
 nav a.selected {
-  text-decoration: underline;
    color: #d60019;
 }
 
+.title {
+  color: #fcfcfc;
+}
+
+.tagLine {
+  color: #fcfcfc;
+}
 
 
 
