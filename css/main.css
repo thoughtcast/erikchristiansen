@@ -17,6 +17,11 @@ font-size: 1em;
   font-style: italic;
 }
 
+.blockquote {
+  font-style: italic;
+  text-indent: 50px;
+}
+
 a {
   text-decoration: none;
 }
@@ -219,6 +224,10 @@ nav a:hover {
 
 nav a.selected {
    color: #d60019;
+}
+
+.title {
+  color: #fcfcfc;
 }
 
 .tagLine {
