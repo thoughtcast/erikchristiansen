@@ -27,7 +27,7 @@ img {
 }
 
 h3 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   margin: 0 0 1em 0;
 }
 
@@ -59,8 +59,8 @@ h1 {
 }
 
 h2 {
-  font-family: 'Raleway', sans-serif;
-  font-size: 0.75em;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.25em;
   margin: -5px 0 0;
   font-weight: normal;
 }
@@ -73,7 +73,7 @@ NAVIGATION
 **************************/
 
 nav {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   text-align: center;
   padding: 10px 0;
   margin: 20px 0 0;
@@ -189,7 +189,7 @@ header {
 }
 
 nav {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   background: #292929;
 }
 
@@ -227,6 +227,6 @@ nav a.selected {
 }
 
 .tagLine {
-  font-family: 'Raleway',;
+  font-family: 'Montserrat',;
   color: #fcfcfc;
 }
